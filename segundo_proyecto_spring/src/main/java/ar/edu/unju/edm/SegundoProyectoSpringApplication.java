@@ -14,5 +14,4 @@ public class SegundoProyectoSpringApplication {
 		Calculadora_Controller nuevoControlador = new Calculadora_Controller();
 		nuevoControlador.resolverSuma();
 	}
-
 }
